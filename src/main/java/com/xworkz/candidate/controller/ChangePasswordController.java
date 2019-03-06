@@ -24,7 +24,7 @@ public class ChangePasswordController {
 	private static final Logger logger = LoggerFactory.getLogger(ChangePasswordController.class);
 
 	public ChangePasswordController() {
-		System.out.println("Created \t" + this.getClass().getSimpleName());
+		//System.out.println("Created \t" + this.getClass().getSimpleName());
 	}
 
 	@RequestMapping(value = "changePassword.do", method = RequestMethod.POST)
