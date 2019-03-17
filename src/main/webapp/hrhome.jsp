@@ -148,6 +148,7 @@ body {
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="index.jsp">Home</a></li>
 						<li><a href="candidates.do">Candidates</a></li>
+						<li><a href="schedule.jsp">Schedule</a></li>
 						<li><a href="logout.do">Logout</a></li>
 					</ul>
 				</div>
